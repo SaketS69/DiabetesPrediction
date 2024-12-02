@@ -14,3 +14,5 @@ To access your flask application open new tab in and paste the url:
 ```
 https://{your_url}:5000/
 ```
+
+[![Saket's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaketS69)](https://github.com/SaketS69/github-readme-stats)
